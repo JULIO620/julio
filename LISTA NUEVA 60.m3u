@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ANGRY BIRDS" tvg-logo="" group-title="PELICULAS",ANGRY BIRDS 
+http://ia802907.us.archive.org/8/items/img20200409153743/5UB1D046R1BR1R5.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ANGRY BIRDS 2" tvg-logo="" group-title="PELICULAS",ANGRY BIRDS 2
+http://ia802907.us.archive.org/8/items/img20200409153743/5UB1D046R1BR152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALADIN" tvg-logo="" group-title="PELICULAS",ALADIN
+http://ia803208.us.archive.org/28/items/01_20200613_202006/01.mp4
+#EXTINF:-1 tvg-id="" tvg-name="INTENSAMENTE" tvg-logo="" group-title="PELICULAS",INTENSAMENTE
+http://ia802901.us.archive.org/15/items/stop_20200308/1n73n54m3n73.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RED UNO" tvg-logo="" group-title="CANALES",RED UNO
+http://136.243.3.70:1935/RedUno/RedUno/chunklist_w372299009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORT" tvg-logo="" group-title="CANALES",TIGO SPORT
+https://d108h32trr4h8c.cloudfront.net/out/v1/d543fa4ff337450db0e38fcc19705c21/index_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LOS SIMPSON" tvg-logo="" group-title="24/7",LOA SIMPSON
+https://videostreaming.cloudserverlatam.com/cloudservertv/cloudservertv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ONE PIECE" tvg-logo="" group-title="24/7",ONE PIECE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
